@@ -26,4 +26,3 @@
 </div>
   <p></p>
   
-  ![Snake animation](https://github.com/Levyhb/Levyhb/blob/output/github-contribution-grid-snake.svg)
