@@ -3,7 +3,7 @@
 
 
 - 🔭 Estudando desenvolvimento web na Trybe
-- 📚 Atualmente estou aprendendo HTML5, CSS3 e  Javascript. 
+- 📚 Atualmente estou aprendendo HTML5, CSS3 e  JavaScript. 
 
 <div align="center">
   <a href="https://github.com/levyhb">
