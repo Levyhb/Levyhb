@@ -4,6 +4,8 @@
 
 - 🧑‍🏫 Full Stack Web Development Student at Trybe.
 - 🎯 focusing on front end. 
+- 📄 I'm available to support React/JavaScript/HTML/CSS projects
+
 
 ##
 
@@ -30,18 +32,3 @@
   
   ##
   
-  ### *Social:*
-  &nbsp;
-  
-<div> 
-  <a href="https://www.linkedin.com/in/levy-bezerra-holanda/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-  ##
-  
-  
- <div align="center">
-  
-  ![Snake animation](https://github.com/Levyhb/Levyhb/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
