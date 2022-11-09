@@ -3,7 +3,7 @@
   &nbsp;
 
 - 🧑‍🏫 Full Stack Web Development Student at Trybe.
-- 🎯 focusing on front end. 
+- 🎯 focusing on Back-End. 
 - 📄 I'm available to support React/JavaScript/HTML/CSS projects
 
 
