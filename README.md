@@ -5,6 +5,7 @@
 - 🧑‍🏫 Full Stack Web Development Student at Trybe.
 - 🎯 focusing on Back-End. 
 - 📄 I'm available to support React/JavaScript/HTML/CSS projects
+- ✉️ You can contact me at levybholanda@gmail.com
 
 
 ##
@@ -29,6 +30,7 @@
   <img align="center" alt="Levy-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Levy-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Levy-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Levy-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
     
   </div>
   
