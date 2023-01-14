@@ -10,13 +10,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/levyhb">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=Levyhb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levyhb&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
- ##
    
   ### *Languages and Tools:* 
   
