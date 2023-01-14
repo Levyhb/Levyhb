@@ -32,7 +32,7 @@
   
   ##
   
-### *Contatos:* 
+### *Contacts:* 
 
   <a href="mailto:levybholanda@gmail.com" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=282A36&logoColor=7ED956&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
