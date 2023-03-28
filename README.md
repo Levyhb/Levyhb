@@ -3,7 +3,7 @@
   &nbsp;
 
 - 🧑‍🏫 Full Stack Web Development Student at Trybe.
-- 🎯 focusing on Back-End. 
+- 🎯 Currently: learning python 🐍. 
 - 📄 I'm available to support React/JavaScript/HTML/CSS projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
@@ -34,6 +34,7 @@
   <img align="center" alt="Levy-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="Levy-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="Levy-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Levy-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     
   </div>
   
