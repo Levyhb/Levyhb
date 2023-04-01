@@ -2,9 +2,9 @@
 
   &nbsp;
 
-- 🧑‍🏫 Full Stack Web Development Student at Trybe.
+- 🖥️ Full Stack Developer.
 - 🎯 Currently: learning python 🐍. 
-- 📄 I'm available to support React/JavaScript/HTML/CSS projects.
+- 📄 I'm available to support React/Node projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
 
