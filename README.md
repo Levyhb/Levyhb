@@ -3,7 +3,7 @@
   &nbsp;
 
 - 🖥️ Full Stack Developer.
-- 🎯 Currently: learning python 🐍. 
+- 🎯 Currently: Focused on React Native 📱. 
 - 📄 I'm available to support React/Node projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
