@@ -3,7 +3,8 @@
   &nbsp;
 
 - 🖥️ Full Stack Developer.
-- 🎯 Currently: Focused on React Native 📱. 
+- 🎯 Currently: Focused on Spring Boot.
+- 💼 Custom Software Engineer At Accenture Brasil
 - 📄 I'm available to support React/Node projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
@@ -35,7 +36,10 @@
   <img align="center" alt="icon-NODEJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
   <img align="center" alt="icon-MONGODB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align="center" alt="icon-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="icon-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="icon-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" alt="icon-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="icon-SPRINGBOOT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
     
   </div>
   
