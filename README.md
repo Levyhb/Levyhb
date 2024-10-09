@@ -3,8 +3,8 @@
   &nbsp;
 
 - 🖥️ Full Stack Developer.
-- 🎯 Currently: Focused on Flutter.
-- 💼 Custom Software Engineer At Accenture Brasil
+- 🎯 Currently: Focused on VueJs.
+- 💼 Full Stack Developer at +A Educação
 - 📄 I'm available to support React/Node projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
