@@ -4,8 +4,8 @@
 
 - 🖥️ Full Stack Developer.
 - 🎯 Currently: Focused on VueJs.
-- 💼 Full Stack Developer at +A Educação
-- 📄 I'm available to support React/Node projects.
+- 💼 Full Stack Developer
+- 📄 I'm available to support React/Node/Vue projects.
 - ✉️ You can contact me at levybholanda@gmail.com
 
 
